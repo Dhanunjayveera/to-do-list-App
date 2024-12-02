@@ -1,0 +1,21 @@
+{
+    "name": "ToDoList App",
+    "short_name": "ToDoApp",
+    "description": "A simple ToDo list app for organizing your tasks.",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#f4f4f9",
+    "icons": [
+        {
+            "src": "icons/check.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/to-do-list.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
